@@ -1,0 +1,1 @@
+"use strict";let e=require("./components/config"),o=require("./components/log"),t=require("./components/platform"),s=require("./components/scheme"),r=require("./components/statistics");module.exports={config:e,log:o,platform:t,scheme:s,statistics:r};

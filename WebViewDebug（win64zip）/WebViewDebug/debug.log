@@ -1,0 +1,2 @@
+[1027/175349.993:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: URL 未使用可识别的协议  (0x2ee6)
+[1121/104741.048:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: URL 未使用可识别的协议  (0x2ee6)
