@@ -1,1 +1,0 @@
-"use strict";module.exports={name:"TBS Studio",version:"1.3.3",android_id:"",m:"",platform:"",debug_url:"",package:"",adb_connect_state:!1,inspect_btn:!1};
